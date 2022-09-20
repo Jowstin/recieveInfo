@@ -4,6 +4,8 @@ pyinstaller --onefile --noconsole main.py
 
 Add the number programnum is equal to in the code, to the end of the command. Such as evac0 if programnum is programnum = '0'
 
+You will have to download the required packages, since I don't know how to add it to github.
+
 NAME    |       Effect
 
 ------------+---------------
